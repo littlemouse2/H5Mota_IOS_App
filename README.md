@@ -30,7 +30,7 @@
 
 ## 联系开发人员
 
-这个app最早是由h5mota的id"[霸道的老鼠](h5mota.com/user/?id=10906)"(id号码10906)开发的。之后会有更多的开发者。
+这个app最早是由h5mota的id"[霸道的老鼠](https://h5mota.com/user/?id=10906)"(id号码10906)开发的。之后会有更多的开发者。
 
 如果你有任何的问题和疑虑，请联系作者qq：1622587044;百度贴吧：[霸道的老鼠🐭](https://tieba.baidu.com/home/main?id=tb.1.168045d7.FUqrDwPKMWj4Sz6iQFugnA&fr=userbar#)。
 
